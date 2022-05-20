@@ -12,7 +12,7 @@
 
 .pfpOptions {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     flex-wrap: wrap;
     margin-top: 10px;
     gap:30px;

@@ -30,7 +30,7 @@ const TweetInFeed = ({profile}) => {
       }
     }
     getTweets()
-  }, [profile]);
+  }, [profile, Moralis, account]);
   
 
   return (
